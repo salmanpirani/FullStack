@@ -1,0 +1,14 @@
+D:\salman mvc\class2\bin\Debug\netcoreapp2.1\class2.deps.json
+D:\salman mvc\class2\bin\Debug\netcoreapp2.1\class2.runtimeconfig.json
+D:\salman mvc\class2\bin\Debug\netcoreapp2.1\class2.runtimeconfig.dev.json
+D:\salman mvc\class2\bin\Debug\netcoreapp2.1\class2.dll
+D:\salman mvc\class2\bin\Debug\netcoreapp2.1\class2.pdb
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.csprojAssemblyReference.cache
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.csproj.CoreCompileInputs.cache
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.RazorAssemblyInfo.cache
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.RazorAssemblyInfo.cs
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.AssemblyInfoInputs.cache
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.AssemblyInfo.cs
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.RazorTargetAssemblyInfo.cache
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.dll
+D:\salman mvc\class2\obj\Debug\netcoreapp2.1\class2.pdb
